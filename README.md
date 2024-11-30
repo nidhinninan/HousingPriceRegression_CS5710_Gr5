@@ -1,4 +1,4 @@
-# House Price Prediction Project
+# House Price Prediction CS 5710 Final Project
 
 This project focuses on predicting house prices using advanced machine learning models. It utilizes the **House Prices - Advanced Regression Techniques** dataset from Kaggle and employs rigorous preprocessing, feature engineering, and model evaluation techniques to achieve accurate predictions. This project is heavy refernced on the kaggle Notebook 
 **How I made top 0.3% on a Kaggle competition**. Instead of using a stacked model, we went with a simple 3 model comparison for the sake of learning the fundamentals of Ransom Forest, XGBoost and LightBGM. The dtata analysis was done with the guidance of the kaggle notebook
